@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>29/10/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="Bran" label="Bran" />
+      <node id="Mance Rayder" label="Mance Rayder" />
+      <node id="Robb" label="Robb" />
+      <node id="Jon" label="Jon" />
+      <node id="Eddard Stark" label="Eddard Stark" />
+      <node id="Jory Cassel" label="Jory Cassel" />
+      <node id="Robert" label="Robert" />
+      <node id="Eddard" label="Eddard" />
+      <node id="Jon Snow" label="Jon Snow" />
+      <node id="Ass" label="Ass" />
+      <node id="Race" label="Race" />
+      <node id="Targaryen" label="Targaryen" />
+      <node id="Starks" label="Starks" />
+      <node id="Harwin" label="Harwin" />
+      <node id="Stark" label="Stark" />
+      <node id="Snow" label="Snow" />
+      <node id="Desmond" label="Desmond" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Bran" target="Harwin" />
+      <edge id="1" source="Bran" target="Ass" />
+      <edge id="2" source="Bran" target="Robb" />
+      <edge id="3" source="Bran" target="Mance Rayder" />
+      <edge id="4" source="Bran" target="Jon Snow" />
+      <edge id="5" source="Bran" target="Starks" />
+      <edge id="6" source="Bran" target="Stark" />
+      <edge id="7" source="Bran" target="Desmond" />
+      <edge id="8" source="Bran" target="Robert" />
+      <edge id="9" source="Bran" target="Targaryen" />
+      <edge id="10" source="Bran" target="Eddard" />
+      <edge id="11" source="Bran" target="Eddard Stark" />
+      <edge id="12" source="Bran" target="Snow" />
+      <edge id="13" source="Bran" target="Jory Cassel" />
+      <edge id="14" source="Bran" target="Race" />
+      <edge id="15" source="Bran" target="Jon" />
+      <edge id="16" source="Mance Rayder" target="Harwin" />
+      <edge id="17" source="Mance Rayder" target="Ass" />
+      <edge id="18" source="Mance Rayder" target="Robb" />
+      <edge id="19" source="Mance Rayder" target="Jon Snow" />
+      <edge id="20" source="Mance Rayder" target="Starks" />
+      <edge id="21" source="Mance Rayder" target="Stark" />
+      <edge id="22" source="Mance Rayder" target="Desmond" />
+      <edge id="23" source="Mance Rayder" target="Robert" />
+      <edge id="24" source="Mance Rayder" target="Targaryen" />
+      <edge id="25" source="Mance Rayder" target="Eddard" />
+      <edge id="26" source="Mance Rayder" target="Eddard Stark" />
+      <edge id="27" source="Mance Rayder" target="Snow" />
+      <edge id="28" source="Mance Rayder" target="Jory Cassel" />
+      <edge id="29" source="Mance Rayder" target="Race" />
+      <edge id="30" source="Mance Rayder" target="Jon" />
+      <edge id="31" source="Robb" target="Harwin" />
+      <edge id="32" source="Robb" target="Ass" />
+      <edge id="33" source="Robb" target="Jon Snow" />
+      <edge id="34" source="Robb" target="Starks" />
+      <edge id="35" source="Robb" target="Stark" />
+      <edge id="36" source="Robb" target="Desmond" />
+      <edge id="37" source="Robb" target="Robert" />
+      <edge id="38" source="Robb" target="Targaryen" />
+      <edge id="39" source="Robb" target="Eddard" />
+      <edge id="40" source="Robb" target="Eddard Stark" />
+      <edge id="41" source="Robb" target="Snow" />
+      <edge id="42" source="Robb" target="Jory Cassel" />
+      <edge id="43" source="Robb" target="Race" />
+      <edge id="44" source="Robb" target="Jon" />
+      <edge id="45" source="Jon" target="Harwin" />
+      <edge id="46" source="Jon" target="Ass" />
+      <edge id="47" source="Jon" target="Jon Snow" />
+      <edge id="48" source="Jon" target="Starks" />
+      <edge id="49" source="Jon" target="Stark" />
+      <edge id="50" source="Jon" target="Desmond" />
+      <edge id="51" source="Jon" target="Robert" />
+      <edge id="52" source="Jon" target="Targaryen" />
+      <edge id="53" source="Jon" target="Eddard" />
+      <edge id="54" source="Jon" target="Eddard Stark" />
+      <edge id="55" source="Jon" target="Snow" />
+      <edge id="56" source="Jon" target="Jory Cassel" />
+      <edge id="57" source="Jon" target="Race" />
+      <edge id="58" source="Eddard Stark" target="Harwin" />
+      <edge id="59" source="Eddard Stark" target="Ass" />
+      <edge id="60" source="Eddard Stark" target="Jon Snow" />
+      <edge id="61" source="Eddard Stark" target="Starks" />
+      <edge id="62" source="Eddard Stark" target="Stark" />
+      <edge id="63" source="Eddard Stark" target="Desmond" />
+      <edge id="64" source="Eddard Stark" target="Robert" />
+      <edge id="65" source="Eddard Stark" target="Targaryen" />
+      <edge id="66" source="Eddard Stark" target="Eddard" />
+      <edge id="67" source="Eddard Stark" target="Snow" />
+      <edge id="68" source="Eddard Stark" target="Jory Cassel" />
+      <edge id="69" source="Eddard Stark" target="Race" />
+      <edge id="70" source="Jory Cassel" target="Harwin" />
+      <edge id="71" source="Jory Cassel" target="Ass" />
+      <edge id="72" source="Jory Cassel" target="Jon Snow" />
+      <edge id="73" source="Jory Cassel" target="Starks" />
+      <edge id="74" source="Jory Cassel" target="Stark" />
+      <edge id="75" source="Jory Cassel" target="Desmond" />
+      <edge id="76" source="Jory Cassel" target="Robert" />
+      <edge id="77" source="Jory Cassel" target="Targaryen" />
+      <edge id="78" source="Jory Cassel" target="Eddard" />
+      <edge id="79" source="Jory Cassel" target="Snow" />
+      <edge id="80" source="Jory Cassel" target="Race" />
+      <edge id="81" source="Robert" target="Harwin" />
+      <edge id="82" source="Robert" target="Ass" />
+      <edge id="83" source="Robert" target="Jon Snow" />
+      <edge id="84" source="Robert" target="Starks" />
+      <edge id="85" source="Robert" target="Stark" />
+      <edge id="86" source="Robert" target="Desmond" />
+      <edge id="87" source="Robert" target="Targaryen" />
+      <edge id="88" source="Robert" target="Eddard" />
+      <edge id="89" source="Robert" target="Snow" />
+      <edge id="90" source="Robert" target="Race" />
+      <edge id="91" source="Eddard" target="Harwin" />
+      <edge id="92" source="Eddard" target="Ass" />
+      <edge id="93" source="Eddard" target="Jon Snow" />
+      <edge id="94" source="Eddard" target="Starks" />
+      <edge id="95" source="Eddard" target="Stark" />
+      <edge id="96" source="Eddard" target="Desmond" />
+      <edge id="97" source="Eddard" target="Targaryen" />
+      <edge id="98" source="Eddard" target="Snow" />
+      <edge id="99" source="Eddard" target="Race" />
+      <edge id="100" source="Jon Snow" target="Harwin" />
+      <edge id="101" source="Jon Snow" target="Ass" />
+      <edge id="102" source="Jon Snow" target="Starks" />
+      <edge id="103" source="Jon Snow" target="Stark" />
+      <edge id="104" source="Jon Snow" target="Desmond" />
+      <edge id="105" source="Jon Snow" target="Targaryen" />
+      <edge id="106" source="Jon Snow" target="Snow" />
+      <edge id="107" source="Jon Snow" target="Race" />
+      <edge id="108" source="Ass" target="Harwin" />
+      <edge id="109" source="Ass" target="Starks" />
+      <edge id="110" source="Ass" target="Stark" />
+      <edge id="111" source="Ass" target="Desmond" />
+      <edge id="112" source="Ass" target="Targaryen" />
+      <edge id="113" source="Ass" target="Snow" />
+      <edge id="114" source="Ass" target="Race" />
+      <edge id="115" source="Race" target="Harwin" />
+      <edge id="116" source="Race" target="Starks" />
+      <edge id="117" source="Race" target="Stark" />
+      <edge id="118" source="Race" target="Desmond" />
+      <edge id="119" source="Race" target="Targaryen" />
+      <edge id="120" source="Race" target="Snow" />
+      <edge id="121" source="Targaryen" target="Harwin" />
+      <edge id="122" source="Targaryen" target="Starks" />
+      <edge id="123" source="Targaryen" target="Stark" />
+      <edge id="124" source="Targaryen" target="Desmond" />
+      <edge id="125" source="Targaryen" target="Snow" />
+      <edge id="126" source="Starks" target="Harwin" />
+      <edge id="127" source="Starks" target="Stark" />
+      <edge id="128" source="Starks" target="Desmond" />
+      <edge id="129" source="Starks" target="Snow" />
+      <edge id="130" source="Harwin" target="Stark" />
+      <edge id="131" source="Harwin" target="Desmond" />
+      <edge id="132" source="Harwin" target="Snow" />
+      <edge id="133" source="Stark" target="Desmond" />
+      <edge id="134" source="Stark" target="Snow" />
+      <edge id="135" source="Snow" target="Desmond" />
+    </edges>
+  </graph>
+</gexf>
